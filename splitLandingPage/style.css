@@ -47,6 +47,7 @@ h1 {
   text-transform: uppercase;
   width: 15rem;
   padding: 1.5rem;
+  cursor: pointer;
 }
 
 .split.left .btn:hover {
